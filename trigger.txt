@@ -1,1 +1,1 @@
-nginx:latest registry.cn-hangzhou.aliyuncs.com/gkzx2024/nginx:latest
+langgenius/dify-api:0.11.1 registry.cn-hangzhou.aliyuncs.com/gkzx2024/dify-yy/dify-api:0.11.1
